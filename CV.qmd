@@ -1,8 +1,9 @@
 ---
 title: "Curriculum Vitae"
+format: typst
 ---
 
-Click [here](docs/CVupload.pdf)
+Click [here](files/cv.qmd)
 
 # Contact Information
 

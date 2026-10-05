@@ -1,11 +1,9 @@
 ---
-title: "Faith's_website"
+title: "Faith's Website"
 ---
 
-This is a Quarto website.
+# **Faith Badmus**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+BAH Student in Philosophy and Economics
 
-```{r}
-1 + 1
-```
+\@ The University of Winnipeg
