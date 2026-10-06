@@ -4,4 +4,4 @@ format: html
 listing: default
 ---
 
-Econometrics Assignment 1 [here](Assignment_1/econ_3201_a1_completed.pdf)
+Econometrics Assignment 1 [here](Assignments/econ_3201_a1_completed.pdf)
