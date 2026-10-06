@@ -3,7 +3,7 @@ title: "Resume"
 format: html
 ---
 
-Click [here](Resume/CVuploadcopy.pdf)
+Click [here](Resume/CVuploadcopy.txt)
 
 **Contact Information**
 
