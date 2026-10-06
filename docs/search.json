@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Click here\nContact Information\nEmail: badmus-f@webmail.uwinnipeg.ca\nExperience/Extracurricular\n-Co-president of FESA\n-Senior Research Assistant, FBE\n-Research Assistant, CJ department"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
     "section": "",
     "text": "I am a final year student at the University of Winnipeg doing a double honours in philosophy and economics. I am hoping to pursue a combined degree in M.A.Econ/J.D for post-grad/grad. My hobbies include taking long walks, baking and reading; two books I am currently reading are: The Plague by Albert Camus and Brave New World by Aldous Huxley. The best written book I think I ever read was for a philosophy class on 17th century philosophy and it was a book by Baruch Spinoza called Tractus Theologico-politicus. However, a book I hold very dear to my heart and would read many times again is Americanah by Chimamnda Adichie."
+  },
+  {
+    "objectID": "Assignment_1/ass_in_latex.html",
+    "href": "Assignment_1/ass_in_latex.html",
+    "title": "Econm_ass1",
+    "section": "",
+    "text": "X &lt;- c(1,2,3,4,5,6,7,8,9,10,11,12)\np &lt;- c(1/12,1/12,1/12,1/12,1/12,1/12,1/12,1/12,1/12,1/12,1/12,1/12)\n\\[ f_X(x)=\\frac{1}{12}\\]\n\\[ E[x]= \\sum_{i=1}^{12}X_if_X(x) \\]"
   },
   {
     "objectID": "index.html",
@@ -14,24 +28,10 @@
     "text": "Hello and welcome!\nMy name is Faith Badmus\nI am BAH student in Philosophy and Economics @ the University of Winnipeg [2023-2027]"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Click here\nContact Information\nEmail: badmus-f@webmail.uwinnipeg.ca\nExperience/Extracurricular\n-Co-president of FESA\n-Senior Research Assistant, FBE\n-Research Assistant, CJ department"
-  },
-  {
-    "objectID": "cv.html#current-positions",
-    "href": "cv.html#current-positions",
-    "title": "Resume",
-    "section": "Current Positions",
-    "text": "Current Positions\n-Co-president of FESA\n-Senior Research Assistant, FBE\n-Research Assistant, CJ department"
-  },
-  {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "My Blog",
     "section": "",
-    "text": "About me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWebsite\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Assignment 1 here\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEconm_ass1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHomepage\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResume\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

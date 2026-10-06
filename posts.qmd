@@ -3,3 +3,5 @@ title: "My Blog"
 format: html
 listing: default
 ---
+
+Assignment 1 [here](Assignment_1/econ_3201_a1_completed.pdf)
