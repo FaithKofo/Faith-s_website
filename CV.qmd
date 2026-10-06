@@ -1,14 +1,18 @@
 ---
-title: "Curriculum Vitae"
-format: typst
+title: "Resume"
+format: html
 ---
 
-Click [here](files/cv.qmd)
+Click [here](files/)
 
-# Contact Information
+**Contact Information**
 
-# Education
+Email: badmus-f\@webmail.uwinnipeg.ca
 
-# Current Position(s)
+[**Experience/Extracurricular**]{.underline}
 
-# Previous Position(s)
+-Co-president of FESA
+
+-Senior Research Assistant, *FBE*
+
+-Research Assistant, *CJ department*

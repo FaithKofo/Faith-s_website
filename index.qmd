@@ -1,9 +1,9 @@
 ---
-title: "Faith's Website"
+title: "Home"
 ---
 
 # **Faith Badmus**
 
-BAH Student in Philosophy and Economics
+[***Education***]{.underline}
 
-\@ The University of Winnipeg
+BAH Philosophy and Economics;The University of Winnipeg \[2023-2027\]

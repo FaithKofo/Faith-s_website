@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About me"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+I am a final year student at the University of Winnipeg doing a double honours in philosophy and economics. I am hoping to pursue a combined degree in M.A.Econ/J.D for post-grad/grad. My hobbies include taking long walks, baking and reading; two books I am currently reading are: *The Plague* by Albert Camus and *Brave New World* by Aldous Huxley. The best written book I think I ever read was for a philosophy class on 17th century philosophy and it was a book by Baruch Spinoza called *Tractus Theologico-politicus*. However, a book I hold very dear to my heart and would read many times again is *Americanah* by Chimamnda Adichie.
