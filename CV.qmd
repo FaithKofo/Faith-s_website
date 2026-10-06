@@ -3,7 +3,7 @@ title: "Resume"
 format: html
 ---
 
-Click [here](Resume/FAITHCV.pdf)
+Click [here](Resume/CVupload.pdf)
 
 **Contact Information**
 
