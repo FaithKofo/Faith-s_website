@@ -1,9 +1,13 @@
 ---
-title: "Home"
+title: "Homepage"
+about:
+  template: trestles
+  image: images/IMG_0117.jpeg
+  image-shape: round 
 ---
 
-# **Faith Badmus**
+*Hello and welcome!*
 
-[***Education***]{.underline}
+**Faith Badmus**
 
-BAH Philosophy and Economics;The University of Winnipeg \[2023-2027\]
+BAH student in Philosophy and Economics;The University of Winnipeg \[2023-2027\]
