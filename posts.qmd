@@ -5,3 +5,5 @@ listing: default
 ---
 
 Econometrics Assignment 1 [here](Assignments/econ_3201_a1_completed.pdf)
+
+Econometrics Assignment 2 [here](Assignments/econ_3201_a3.pdf)
